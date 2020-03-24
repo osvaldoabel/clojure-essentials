@@ -4,23 +4,9 @@ FIXME: description
 
 ## Installation
 
-Download from http://example.com/FIXME.
-
+Fork this repo and go through src/ files.
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar tutorial-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
 
 ...
 
